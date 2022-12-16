@@ -44,3 +44,81 @@ h4{
     height: 420px;
     position: absolute;
 }
+.text1{
+    border-radius: 12px;
+    backdrop-filter: blur(10px);
+    background: rgba(255, 251, 251, 0.74);
+    position: absolute;
+    top: 520px;
+    left: 250px;
+    width: 443px;
+    height: 125px;
+}
+.text2{
+    position: absolute;
+    border-radius: 12px;
+    backdrop-filter: blur(10px);
+    background: rgba(255, 251, 251, 0.74);
+    top: 497px;
+    left: 763px;
+    width: 443px;
+    height: 125px;
+}.text3{
+    position: absolute;
+    border-radius: 12px;
+    backdrop-filter: blur(10px);
+    background: rgba(255, 251, 251, 0.74);
+    top: 524px;
+    left: 1267px;
+    width: 443px;
+    height: 125px;
+}.text4{
+    position: absolute;
+    border-radius: 12px;
+    backdrop-filter: blur(10px);
+    background: rgba(255, 251, 251, 0.74);
+    top: 523px;
+    left: 1775px;
+    width: 443px;
+    height: 125px;
+}
+.p1{
+    top: 30px;
+    left: 30px;
+    width: 339px;
+    height: 65px;
+    position: absolute;
+    text-align: left;
+    font: normal normal normal 18px/22px Helvetica Neue;
+    color: #171717;
+}
+.p2{
+    top: 30px;
+    left: 30px;
+    width: 339px;
+    height: 65px;
+    position: absolute;
+    text-align: left;
+    font: normal normal normal 18px/22px Helvetica Neue;
+    color: #171717;
+}
+.p3{
+    top: 30px;
+    left: 30px;
+    width: 339px;
+    height: 65px;
+    position: absolute;
+    text-align: left;
+    font: normal normal normal 18px/22px Helvetica Neue;
+    color: #171717;
+}
+.p4{
+    top: 30px;
+    left: 30px;
+    width: 339px;
+    height: 65px;
+    position: absolute;
+    text-align: left;
+    font: normal normal normal 18px/22px Helvetica Neue;
+    color: #171717;
+}
